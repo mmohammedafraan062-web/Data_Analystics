@@ -1,3 +1,4 @@
+<img width="961" height="602" alt="healthplus_care_Schema_Img" src="https://github.com/user-attachments/assets/e9b313a0-8639-41e8-abad-3c468591ecb5" />
 # HealthPlus Care Healthcare Analytics
 
 ## Overview
