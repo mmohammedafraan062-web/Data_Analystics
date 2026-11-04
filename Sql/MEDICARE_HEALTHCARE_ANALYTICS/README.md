@@ -1,3 +1,5 @@
+<img width="958" height="603" alt="Hospital_Analytics_Schema" src="https://github.com/user-attachments/assets/4494eabd-26de-421a-b9df-97126d661e5a" />
+
 # 🏥 MediCare Healthcare Operations & Revenue Analytics
 
 ## Overview
